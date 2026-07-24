@@ -1,101 +1,68 @@
-<div align="center">
+# Jeevan Joy
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Jeevan+Joy;Full+Stack+Developer;IoT+%26+Embedded+Systems+Developer" />
+Full Stack Developer · IoT Developer · VLSI Engineering Student
 
-</div>
-
-<p align="center">
-  <a href="https://jeevanfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/jeevanjoy60">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+Kerala, India
 
 ---
 
 ## About
 
-I am a developer focused on building web applications, embedded systems, and IoT solutions.
-
-My interests include:
-
-* Full-stack web development
-* Embedded programming
-* Hardware prototyping
-* Open-source technologies
-
-Currently working with modern JavaScript frameworks, backend systems, and microcontroller-based projects.
+I build modern web applications and IoT solutions, focusing on clean architecture and reliable functionality. Alongside software development, I study digital electronics, semiconductor technology, and VLSI design. My work spans full stack development, embedded systems, and applied electronics engineering.
 
 ---
 
 ## Technologies
 
-<p align="center">
+**Languages**
+JavaScript · TypeScript · C · C++ · HTML · CSS
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,cpp,c,arduino,esp32,git,github,vscode&perline=8" />
+**Frontend**
+React · Next.js · Tailwind CSS
 
-</p>
+**Backend**
+Node.js · Express.js · REST APIs
 
----
+**Database**
+MongoDB
 
-## Selected Projects
+**IoT & Hardware**
+ESP32 · Arduino
 
-### Smart Precision Agriculture IoT System
+**Engineering**
+VLSI Design · Digital Electronics · Microcontrollers
 
-Sensor-based agriculture monitoring platform using microcontrollers, environmental sensors, and IoT communication.
-
-**Stack:** Arduino · ESP32 · Sensors · Embedded C
-
----
-
-### Full Stack Web Applications
-
-Modern web applications with authentication, APIs, databases, and responsive interfaces.
-
-**Stack:** Next.js · Node.js · Express · MongoDB
+**Tools**
+Git · GitHub · VS Code
 
 ---
 
-### Mapping & Route Applications
+## Featured Projects
 
-Interactive map-based applications using open mapping data and browser APIs.
+**Smart Precision Agriculture System**
+IoT-based smart agriculture platform with environmental monitoring, automation, and real-time sensor data.
+`ESP32` `Arduino` `IoT` `Sensors`
 
-**Stack:** JavaScript · Leaflet · OpenStreetMap
+**Full Stack Web Applications**
+Modern web applications featuring authentication, APIs, databases, and responsive user interfaces.
+`Next.js` `Node.js` `Express` `MongoDB`
+
+**Mapping Applications**
+Interactive mapping applications using open-source geospatial technologies.
+`JavaScript` `Leaflet` `OpenStreetMap`
 
 ---
 
 ## GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jeevanjoy60&show_icons=true&hide_border=true&theme=transparent" height="150" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanjoy60&layout=compact&hide_border=true&theme=transparent" height="150" />
-
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevanjoy60&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanjoy60&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="165" />
+</p>
 
 ---
 
 ## Contact
 
-<p align="center">
-
-<a href="https://jeevanfolio.vercel.app">
-<img src="https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:jeevanjoy60@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-<sub>Building software and exploring technology.</sub>
-
-</div>
+GitHub: [github.com/jeevanjoy60](https://github.com/jeevanjoy60)
+Email: [jeevanjoy60@gmail.com](mailto:jeevanjoy60@gmail.com)
