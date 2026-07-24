@@ -1,41 +1,33 @@
-# Jeevan Joy
+<div align="center">
 
-Full Stack Developer · IoT Developer · VLSI Engineering Student
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Jeevan%20Joy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20IoT%20Developer%20%C2%B7%20VLSI%20Engineering%20Student&descSize=16&descAlignY=60" width="100%"/>
 
-Kerala, India
+<a href="https://github.com/jeevanjoy60">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+modern+web+applications;Designing+IoT+and+embedded+systems;Exploring+VLSI+and+digital+electronics" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## About
+<a href="mailto:jeevanjoy60@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jeevanjoy60%40gmail.com-1e293b?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/jeevanjoy60">
+  <img src="https://img.shields.io/badge/GitHub-jeevanjoy60-1e293b?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-I build modern web applications and IoT solutions, focusing on clean architecture and reliable functionality. Alongside software development, I study digital electronics, semiconductor technology, and VLSI design. My work spans full stack development, embedded systems, and applied electronics engineering.
+</div>
 
----
+<br/>
 
 ## Technologies
 
-**Languages**
-JavaScript · TypeScript · C · C++ · HTML · CSS
+<div align="center">
 
-**Frontend**
-React · Next.js · Tailwind CSS
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,c,cpp,html,css,arduino,git,vscode&theme=dark" />
 
-**Backend**
-Node.js · Express.js · REST APIs
+</div>
 
-**Database**
-MongoDB
-
-**IoT & Hardware**
-ESP32 · Arduino
-
-**Engineering**
-VLSI Design · Digital Electronics · Microcontrollers
-
-**Tools**
-Git · GitHub · VS Code
-
----
+<br/>
 
 ## Featured Projects
 
@@ -51,18 +43,17 @@ Modern web applications featuring authentication, APIs, databases, and responsiv
 Interactive mapping applications using open-source geospatial technologies.
 `JavaScript` `Leaflet` `OpenStreetMap`
 
----
+<br/>
 
 ## GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevanjoy60&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanjoy60&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="165" />
-</p>
+<div align="center">
 
----
+<img src="https://github-stats-extended.vercel.app/api?username=jeevanjoy60&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=94a3b8&icon_color=94a3b8&text_color=cbd5e1&count_private=true&cache_seconds=1800" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jeevanjoy60&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=94a3b8&text_color=cbd5e1&langs_count=8&cache_seconds=1800" height="165"/>
 
-## Contact
+</div>
 
-GitHub: [github.com/jeevanjoy60](https://github.com/jeevanjoy60)
-Email: [jeevanjoy60@gmail.com](mailto:jeevanjoy60@gmail.com)
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
