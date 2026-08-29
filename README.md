@@ -14,6 +14,8 @@
 
 </div>
 
+<br/>
+
 <div align="center">
 
 <!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
