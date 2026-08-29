@@ -43,7 +43,7 @@
 
 
 <!-- streak-start -->
-![GitHub Streak](./assets/streak/j-e-e-v-a-n-streak.svg)
+![GitHub Streak](./assets/streak/jeevanjoy60-streak.svg)
 <!-- streak-end -->
 
 <br>
